@@ -16,10 +16,12 @@ struct Framework: Hashable, Identifiable {
 }
 
 struct MockData {
-    static let sampleFramework = Framework(name: "Core ML",
-                                           imageName: "coreml",
-                                           urlString: "https://developer.apple.com/machine-learning",
-                                           description: "Create intelligent features and enable new experiences for your apps by leveraging powerful on-device machine learning.\n\nLearn how to build, train, and deploy machine learning models into your iPhone, iPad, Apple Watch, and Mac apps.")
+    static let sampleFramework = Framework(
+        name: "Core ML",
+        imageName: "coreml",
+        urlString: "https://developer.apple.com/machine-learning",
+        description: "Create intelligent features and enable new experiences for your apps by leveraging powerful on-device machine learning.\n\nLearn how to build, train, and deploy machine learning models into your iPhone, iPad, Apple Watch, and Mac apps.")
+    
     static let frameworks = [
         Framework(name: "App Clips",
                   imageName: "app-clip",

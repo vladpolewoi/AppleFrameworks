@@ -16,7 +16,6 @@
 		0C17892B2ABC527400F0DF4A /* FrameworkGridViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C17892A2ABC527400F0DF4A /* FrameworkGridViewModel.swift */; };
 		0C17892D2ABC61AF00F0DF4A /* SafariView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C17892C2ABC61AF00F0DF4A /* SafariView.swift */; };
 		0C17892F2ABC655900F0DF4A /* FrameworkVTitleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C17892E2ABC655900F0DF4A /* FrameworkVTitleView.swift */; };
-		0C1789312ABC65D100F0DF4A /* XDismissButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C1789302ABC65D100F0DF4A /* XDismissButton.swift */; };
 		0C1789372ABC6B3200F0DF4A /* FrameworkHTitleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C1789362ABC6B3200F0DF4A /* FrameworkHTitleView.swift */; };
 /* End PBXBuildFile section */
 
@@ -31,7 +30,6 @@
 		0C17892A2ABC527400F0DF4A /* FrameworkGridViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrameworkGridViewModel.swift; sourceTree = "<group>"; };
 		0C17892C2ABC61AF00F0DF4A /* SafariView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SafariView.swift; sourceTree = "<group>"; };
 		0C17892E2ABC655900F0DF4A /* FrameworkVTitleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrameworkVTitleView.swift; sourceTree = "<group>"; };
-		0C1789302ABC65D100F0DF4A /* XDismissButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = XDismissButton.swift; sourceTree = "<group>"; };
 		0C1789362ABC6B3200F0DF4A /* FrameworkHTitleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrameworkHTitleView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -104,7 +102,6 @@
 		0C1789272ABC4C3600F0DF4A /* Views */ = {
 			isa = PBXGroup;
 			children = (
-				0C1789302ABC65D100F0DF4A /* XDismissButton.swift */,
 				0C17892E2ABC655900F0DF4A /* FrameworkVTitleView.swift */,
 				0C1789362ABC6B3200F0DF4A /* FrameworkHTitleView.swift */,
 			);
@@ -208,7 +205,6 @@
 			files = (
 				0C17892D2ABC61AF00F0DF4A /* SafariView.swift in Sources */,
 				0C1789262ABC490D00F0DF4A /* FrameworkDetailView.swift in Sources */,
-				0C1789312ABC65D100F0DF4A /* XDismissButton.swift in Sources */,
 				0C1789162ABC42E200F0DF4A /* FrameworkGridView.swift in Sources */,
 				0C1789232ABC431500F0DF4A /* Framework.swift in Sources */,
 				0C1789142ABC42E200F0DF4A /* AppleFrameworksApp.swift in Sources */,
